@@ -1,0 +1,24 @@
+{
+  "name": "webstoreexampleapi",
+  "version": "1.0.0",
+  "description": "a boilerplate for a webstore api",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fidelsomething/webstoreexampleapi.git"
+  },
+  "author": "Filipe Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fidelsomething/webstoreexampleapi/issues"
+  },
+  "homepage": "https://github.com/fidelsomething/webstoreexampleapi#readme"
+}
